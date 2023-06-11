@@ -19,6 +19,7 @@
  ## PROGRAM:
  
  ### App.js:
+ ```
  java
  import React, { useState } from 'react';
 import './App.css';
@@ -116,10 +117,11 @@ function App() {
   );
 }
 export default App;
- 
+ ```
  
  ### App.css:
- java
+```
+java
  .todo-app {
   width: 400px;
   margin: 50px auto;
@@ -191,6 +193,7 @@ export default App;
 .task-actions button {
   margin-left: 5px;
 }
+```
 
 ## OUTPUT:
  ![image](https://github.com/Aashima02/To-Do-Application/assets/93427086/69657e6a-d3e4-448b-b303-a1735fa526e4)
